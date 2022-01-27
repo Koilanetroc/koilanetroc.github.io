@@ -1,2 +1,2 @@
 # koilanetroc.github.io
-Personal webiste
+Personal website
