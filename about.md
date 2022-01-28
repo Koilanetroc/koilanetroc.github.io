@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Скоро будет небольшой сайтик обо мне, stay tuned
+There will be my personal website soon, stay tuned
