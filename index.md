@@ -2,4 +2,4 @@
 layout: home
 ---
 
-There will be my personal website soon, stay tuned
+It's going to be my personal website soon, stay tuned
