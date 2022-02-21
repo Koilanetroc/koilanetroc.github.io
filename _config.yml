@@ -20,9 +20,10 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 minima:
   social_links:
-    github: Koilanetroc
+    github: koilanetroc
     linkedin: koilas
-    telegram: koilas #TODO: добавить значок телеграфа
+    telegram: koilas
+    goodreads: koilanetroc
 
 # Build settings
 markdown: kramdown
