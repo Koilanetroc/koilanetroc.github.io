@@ -16,7 +16,8 @@
 title: Oleg Tolmashov
 email: koilanetroc@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://olegtolmashov.com" # the base hostname & protocol for your site, e.g. http://example.com
+permalink: /:categories/:title:output_ext
 
 minima:
   social_links:
